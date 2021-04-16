@@ -1,0 +1,92 @@
+<type name="Helipolice_SIB4">
+<nominal>0</nominal>
+<lifetime>3</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+
+<type name="Helipolice_swat_SIB5">
+<nominal>0</nominal>
+<lifetime>3</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+
+
+
+
+<type name="HeliSIB_UH1D">
+<nominal>0</nominal>
+<lifetime>3</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+
+<type name="HeliSIB_UH1D_airforce">
+<nominal>0</nominal>
+<lifetime>3</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+
+<type name="HeliSIB_UH1D_iron">
+<nominal>0</nominal>
+<lifetime>3</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+
+<type name="HeliSIB_UH1D_navy">
+<nominal>0</nominal>
+<lifetime>3</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+
+
+<type name="Heliblack_hawk_SIB">
+<nominal>0</nominal>
+<lifetime>3</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+
+
+<type name="Heliblack_hawk_SIB_camo">
+<nominal>0</nominal>
+<lifetime>3</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
