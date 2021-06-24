@@ -19,6 +19,7 @@
 "Fuel": 0 , example 0-1 Fuel damage(off damage 0)
 "Rotor1": 0 , example 0-1 to the main rotor damage (off damage 0)
 "Rotor2": 0 , example 0-1- to the rotor 2 damage (off damage 0)
+///if you turn off all damage, then the helicopter will no longer receive damage from bullets
 "kill z": 0 , example 0-1- deal damage to players with damage from a blow(off damage 0)
 "gasoline costs": 0.001 , - gasoline waste
 "gasoline restart": 1 , example 0-1- automatic refueling at spawn
@@ -53,6 +54,7 @@
 "Fuel": 0 , 1 вкл 0 выкл бак урон
 "Rotor1": 0 , 1 вкл 0 выкл главный ротор урон
 "Rotor2": 0 , 1 вкл 0 выкл ротор 2 урон
+//если отключить все повреждения, то вертолет больше не будет получать урон от пуль
 "kill z": 0 , пример 1-0 - наносить урон игрокам при повреждении от удара
 "gasoline costs": 0.001 , - трата бензина
 "gasoline restart": 1 , пример 1-0- автоматическая заправка при спавне
