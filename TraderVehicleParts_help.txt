@@ -1,4 +1,4 @@
-<VehicleParts>Helipolice_SIB4
+<VehicleParts>Helipolice_SIB4_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -18,7 +18,7 @@ HeadlightH7
 HeadlightH7
 
 
-<VehicleParts>Helipolice_swat_SIB5
+<VehicleParts>Helipolice_swat_SIB5_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -39,7 +39,7 @@ HeadlightH7
 
 
 
-<VehicleParts>HeliSIB_UH1D
+<VehicleParts>HeliSIB_UH1D_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -59,7 +59,7 @@ HeadlightH7
 
 
 
-<VehicleParts>HeliSIB_UH1D_airforce
+<VehicleParts>HeliSIB_UH1D_airforce_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -77,7 +77,7 @@ HeadlightH7
 HeadlightH7
 
 
-<VehicleParts>HeliSIB_UH1D_iron
+<VehicleParts>HeliSIB_UH1D_iron_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -94,7 +94,7 @@ CarBattery
 HeadlightH7
 HeadlightH7
 
-<VehicleParts>HeliSIB_UH1D_navy
+<VehicleParts>HeliSIB_UH1D_navy_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -111,7 +111,7 @@ CarBattery
 HeadlightH7
 HeadlightH7
 
-<VehicleParts>Heliblack_hawk_SIB
+<VehicleParts>Heliblack_hawk_SIB_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -132,7 +132,7 @@ CarBattery
 HeadlightH7
 HeadlightH7
 
-<VehicleParts>Heliblack_hawk_SIB_camo
+<VehicleParts>Heliblack_hawk_SIB_camo_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -154,7 +154,7 @@ HeadlightH7
 HeadlightH7
 
 
-<VehicleParts>HeliMI17_SIB
+<VehicleParts>HeliMI17_SIB_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
