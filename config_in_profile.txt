@@ -14,16 +14,16 @@
 "front tiltMouse": 2.5 , - tilt in front and back Mouse
 "m povorot": 0.5 , - rotation speed
 ///if you turn off all damage, then the helicopter will no longer receive damage from bullets
-"Chassis": 0 , example 0-1- to the wheels or the stand damage (off damage 0)
-"Body": 0 , example 0-1- nose damage (off damage 0)
-"Engine": 1 , example 0-1- engine damage(off damage 0)
-"Fuel": 0 , example 0-1 Fuel damage(off damage 0)
-"Rotor1": 0 , example 0-1 to the main rotor damage (off damage 0)
-"Rotor2": 0 , example 0-1- to the rotor 2 damage (off damage 0)
+"Chassis": 0 , example 0 or 1- to the wheels or the stand damage (off damage 0)
+"Body": 0 , example 0 or 1- nose damage (off damage 0)
+"Engine": 1 , example 0 or 1- engine damage(off damage 0)
+"Fuel": 0 , example 0 or 1 Fuel damage(off damage 0)
+"Rotor1": 0 , example 0 or 1 to the main rotor damage (off damage 0)
+"Rotor2": 0 , example 0 or 1- to the rotor 2 damage (off damage 0)
 ///if you turn off all damage, then the helicopter will no longer receive damage from bullets
-"kill z": 0 , example 0-1- deal damage to players with damage from a blow(off damage 0)
+"kill z": 0 , example 0 or 1- deal damage to players with damage from a blow(off damage 0)
 "gasoline costs": 0.001 , - gasoline waste
-"gasoline restart": 1 , example 0-1- automatic refueling at spawn
+"gasoline restart": 1 , example 0 or 1- automatic refueling at spawn
 "c camDistance": 10 , example 0.1-100 - distance camera
 "maxFuel": 30 , example 0.1-100 - max Fuel
 "m Crash dem": 15 , example 0.1-100 - maximum speed at which the sound of Crash
