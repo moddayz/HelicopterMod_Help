@@ -1,0 +1,35 @@
+Create a new pbo which contains config.cpp
+
+and use inheritance of the helicopter class, and inside the class write 2 commands
+hiddenSelections[] = {"camo1"};
+hiddenSelectionsTextures[] = {"path to texture"};
+
+
+example
+
+
+config.cpp
+////////////////
+
+class CfgPatches
+{
+class HelicopterModSIBMI35_new
+{
+  units[]={};
+  weapons[]={};
+  requiredVersion=0.1;
+  requiredAddons[]={"HelicopterModSIBMI35"};
+};
+};
+
+
+class HeliSIB_Mi35;
+class HeliSIB_Mi35_new: HeliSIB_Mi35
+{
+  displayName="mi35_new";
+  hiddenSelections[] = {"camo1"};
+  hiddenSelectionsTextures[] = {"mi35_new\data\camo.paa"};
+};
+
+
+/////////
