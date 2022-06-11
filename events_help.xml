@@ -22,5 +22,8 @@
 <child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_UH1D_navy"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="Heliblack_hawk_SIB"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="Heliblack_hawk_SIB_camo"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="HeliMI17_SIB"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="HeliMH6_SIB"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_hommade"/>
 </children>
 </event>
