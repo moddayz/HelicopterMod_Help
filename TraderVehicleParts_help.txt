@@ -1,4 +1,4 @@
-<VehicleParts>Helipolice_SIB4
+<VehicleParts>Helipolice_SIB4_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -7,12 +7,18 @@ SIBPolice_Door_1_1
 SIBPolice_Door_1_2
 SIBPolice_Door_2_1
 SIBPolice_Door_2_2
+SIBPolice_blade1
+SIBPolice_blade2
+SIBPolice_blade3
+SIBPolice_blade4
+SIBPolice_bladem1
+SIBPolice_bladem2
 CarBattery
 HeadlightH7
 HeadlightH7
 
 
-<VehicleParts>Helipolice_swat_SIB5
+<VehicleParts>Helipolice_swat_SIB5_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -21,13 +27,19 @@ SIBPolice_Door_1_1_swat
 SIBPolice_Door_1_2_swat
 SIBPolice_Door_2_1_swat
 SIBPolice_Door_2_2_swat
+SIBPolice_blade1
+SIBPolice_blade2
+SIBPolice_blade3
+SIBPolice_blade4
+SIBPolice_bladem1
+SIBPolice_bladem2
 CarBattery
 HeadlightH7
 HeadlightH7
 
 
 
-<VehicleParts>HeliSIB_UH1D
+<VehicleParts>HeliSIB_UH1D_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -47,7 +59,7 @@ HeadlightH7
 
 
 
-<VehicleParts>HeliSIB_UH1D_airforce
+<VehicleParts>HeliSIB_UH1D_airforce_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -65,7 +77,7 @@ HeadlightH7
 HeadlightH7
 
 
-<VehicleParts>HeliSIB_UH1D_iron
+<VehicleParts>HeliSIB_UH1D_iron_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -82,7 +94,7 @@ CarBattery
 HeadlightH7
 HeadlightH7
 
-<VehicleParts>HeliSIB_UH1D_navy
+<VehicleParts>HeliSIB_UH1D_navy_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -99,7 +111,7 @@ CarBattery
 HeadlightH7
 HeadlightH7
 
-<VehicleParts>Heliblack_hawk_SIB
+<VehicleParts>Heliblack_hawk_SIB_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -120,7 +132,7 @@ CarBattery
 HeadlightH7
 HeadlightH7
 
-<VehicleParts>Heliblack_hawk_SIB_camo
+<VehicleParts>Heliblack_hawk_SIB_camo_clear
 HatchbackWheel
 HatchbackWheel
 HatchbackWheel
@@ -138,5 +150,54 @@ SIBblack_hawk_bladem2
 SIBblack_hawk_bladem3
 SIBblack_hawk_bladem4
 CarBattery
+HeadlightH7
+HeadlightH7
+
+<VehicleParts>HeliMI17_SIB_clear
+HatchbackWheel
+HatchbackWheel
+HatchbackWheel
+HatchbackWheel
+MI17_blade1
+MI17_blade2
+MI17_blade3
+MI17_blade4
+MI17_blade5
+MI17_bladem1
+MI17_bladem2
+MI17_bladem3
+MI17_Door_1_1
+MI17_lesnica
+CarBattery
+HeadlightH7
+HeadlightH7
+
+<VehicleParts>HeliMH6_SIB_clear
+HatchbackWheel
+HatchbackWheel
+HatchbackWheel
+HatchbackWheel
+SIBMH6_blade1
+SIBMH6_blade2
+SIBMH6_blade3
+SIBMH6_blade4
+SIBMH6_blade5
+SIBMH6_bladem1
+SIBMH6_bladem2
+CarBattery
+HeadlightH7
+HeadlightH7
+
+<VehicleParts>HeliSIB_hommade_clear
+HatchbackWheel
+HatchbackWheel
+HatchbackWheel
+HatchbackWheel
+hommade_blade1
+hommade_blade2
+hommade_bladem1
+hommade_bladem2
+CarBattery
+CarRadiator
 HeadlightH7
 HeadlightH7
