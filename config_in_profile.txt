@@ -14,12 +14,12 @@
 "front tiltMouse": 2.5 , - tilt in front and back Mouse
 "m povorot": 0.5 , - rotation speed
 ///if you turn off all damage, then the helicopter will no longer receive damage from bullets
-"Chassis": 0 , example 0 or 1- to the wheels or the stand damage (off damage 0)
-"Body": 0 , example 0 or 1- nose damage (off damage 0)
-"Engine": 1 , example 0 or 1- engine damage(off damage 0)
-"Fuel": 0 , example 0 or 1 Fuel damage(off damage 0)
-"Rotor1": 0 , example 0 or 1 to the main rotor damage (off damage 0)
-"Rotor2": 0 , example 0 or 1- to the rotor 2 damage (off damage 0)
+"Chassis": 0 - 1000 multiplies damage by the number in the parameter (0 disables) 2 multiplies by 2 - wheels
+"Body": 0 - 1000 multiplies damage by number in parameter (0 disables) 2 multiplies by 2 - body
+"Engine": 1 - 1000 multiplies damage by number in parameter (0 disables) 2 multiplies by 2 - engine
+"Fuel": 0 - 1000 multiplies the damage by the number in the parameter (0 disables) 2 multiplies by 2 - tank
+"Rotor1": 0 - 1000 multiplies the damage by the number in the parameter (0 disables) 2 multiplies the main rotor by 2
+"Rotor2": 0 - 1000 multiplies the damage by the number in the parameter (0 disables) 2 multiplies rotor 2 by 2
 ///if you turn off all damage, then the helicopter will no longer receive damage from bullets
 "kill z": 0 , example 0 or 1- deal damage to players with damage from a blow(off damage 0)
 "gasoline costs": 0.001 , - gasoline waste
@@ -49,12 +49,12 @@
 "inclineMouse": 2.5 , - скорость наклона в бок мышью
 "front tiltMouse": 2.5 , -наклон в перед и назад мышью
 "m povorot": 0.5 , - скорость поворота на 90 градусов
-"Chassis": 0 , 1 вкл 0 выкл - колеса урон
-"Body": 0 , 1 вкл 0 выкл- корпус урон
-"Engine": 1 , 1 вкл 0 выкл - движок урон
-"Fuel": 0 , 1 вкл 0 выкл бак урон
-"Rotor1": 0 , 1 вкл 0 выкл главный ротор урон
-"Rotor2": 0 , 1 вкл 0 выкл ротор 2 урон
+"Шасси": 0 - 1000 умножает урон на число в параметре (0 отключает) 2 умножает на 2 - колеса
+"Тело": 0 - 1000 умножает урон на число в параметре (0 отключает) 2 умножает на 2 - тело
+"Двигатель": 1 - 1000 умножает урон на число в параметре (0 отключает) 2 умножает на 2 - двигатель
+"Топливо": 0 - 1000 умножает урон на число в параметре (0 отключает) 2 умножает на 2 - танк
+"Ротор1": 0 - 1000 умножает урон на число в параметре (0 отключает) 2 умножает несущий винт на 2
+"Ротор2": 0 - 1000 умножает урон на число в параметре (0 отключает) 2 умножает ротор 2 на 2
 //если отключить все повреждения, то вертолет больше не будет получать урон от пуль
 "kill z": 0 , пример 1-0 - наносить урон игрокам при повреждении от удара
 "gasoline costs": 0.001 , - трата бензина
