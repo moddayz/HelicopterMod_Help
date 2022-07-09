@@ -16,10 +16,12 @@
 ///if you turn off all damage, then the helicopter will no longer receive damage from bullets
 "Chassis": 0 - 1000 multiplies damage by the number in the parameter (0 disables) 2 multiplies by 2 - wheels
 "Body": 0 - 1000 multiplies damage by number in parameter (0 disables) 2 multiplies by 2 - body
-"Engine": 1 - 1000 multiplies damage by number in parameter (0 disables) 2 multiplies by 2 - engine (if the is damaged, it will not be able to keep high speeds because of this, the helicopter will not be able to take off and will slowly fall)
+"Engine": 1 - 1000 multiplies damage by number in parameter (0 disables) 2 multiplies by 2 - engine (if the is damaged, it will not be able 
+to keep high speeds because of this, the helicopter will not be able to take off and will slowly fall)
 "Fuel": 0 - 1000 multiplies the damage by the number in the parameter (0 disables) 2 multiplies by 2 - tank (if damaged then gasoline will decrease rapidly)
 "Rotor1": 0 - 1000 multiplies the damage by the number in the parameter (0 disables) 2 multiplies the main rotor by 2
-"Rotor2": 0 - 1000 multiplies the damage by the number in the parameter (0 disables) 2 multiplies rotor 2 by 2 (if damaged, the helicopter loses control and will spin around its axis)
+"Rotor2": 0 - 1000 multiplies the damage by the number in the parameter (0 disables) 2 multiplies rotor 2 by 2 (if damaged, the helicopter 
+loses control and will spin around its axis)
 ///if you turn off all damage, then the helicopter will no longer receive damage from bullets
 "kill z": 0 , example 0-1- deal damage to players with damage from a blow(off damage 0)
 "gasoline costs": 0.001 , - gasoline waste
