@@ -14,17 +14,29 @@
 <children>
 
 <child lootmax="0" lootmin="0" max="5" min="3" type="Helipolice_SIB4"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="Helipolice_SIB4_clear"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="Helipolice_swat_SIB5"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="Helipolice_swat_SIB5_clear"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="Homemade_SIB"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="Homemade_SIB_clear"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_UH1D"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_UH1D_clear"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_UH1D_airforce"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_UH1D_airforce_clear"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_UH1D_iron"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_UH1D_iron_clear"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_UH1D_navy"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_UH1D_navy_clear"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="Heliblack_hawk_SIB"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="Heliblack_hawk_SIB_clear"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="Heliblack_hawk_SIB_camo"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="Heliblack_hawk_SIB_camo_clear"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="HeliMI17_SIB"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="HeliMI17_SIB_clear"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="HeliMH6_SIB"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="HeliMH6_SIB_clear"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_hommade"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_hommade_clear"/>
 </children>
 </event>
 
