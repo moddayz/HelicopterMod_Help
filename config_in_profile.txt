@@ -1,4 +1,6 @@
 //////////ENG///////
+The folder with the config of each helicopter is located in the server profile folder in the heli_sib folder
+//////////ENG///////
 
 "duration": 0.05 , - rotor spin speed
 "Lift power": 1.5 , - air resistance level - for large helicopters there should be more
@@ -36,9 +38,11 @@ loses control and will spin around its axis)
 "config_3rdPerson": 0.0, - if 1 then enable HUD in 1st person
 "coef_damage_cont": 1.0, - increase or decrease total damage (multiply)
 "coef_damage_weapom": 1.0 - doesn't work yet.
+
+
 //////////RUS///////
->>>>>>>>>config в папке профиля сервера в папке Heli_sib <<<<<<<<<<<
- 
+Папка с конфигом каждого вертолета находится в папке профиля сервера в папку heli_sib
+//////////RUS///////
  
 "duration": 0.05 , - скорость раскрутки ротора
 "Lift power": 1.5 , - уровень сопротивления воздуху - для больших вертолетов должно быть больше
