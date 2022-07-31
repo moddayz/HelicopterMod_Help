@@ -1,0 +1,63 @@
+//////////ENG///////
+
+Description of helicopter settings (config boat folder boat_sib) in the server profile folder
+
+c_heightCoef = 0.6;//сдвиг по высоте над уровнем воды
+c_maxSpeedForward = 16.0;//макс скорость вперед
+c_maxSpeedBack = 10.0;//макс скорость назад
+c_speedForwardCoef = 0.03;//увеличение скорости вперед
+c_speedBackCoef = 0.02;//увеличение скорости назад
+c_dampingSpeedForwardCoef = 0.04;//эффект холостого хода уменьшение скорости, если плыл вперед
+c_dampingSpeedBackCoef = 0.03;//эффект холостого хода уменьшение скорости, если плыл назад
+c_brakingForward = 0.05;//эффект торможения если плыл вперед и нажал назад
+c_brakingBack = 0.05;//эффект торможения если плыл назад и нажал вперед
+c_rotationCoef = 0.5;//макс угол поворота, зависит так же от скорости, чем больше скорости тем точней к данному значению
+c_krenMin = -3.0;//крен вперед
+c_krenMax = 3.0;//крен назад
+c_krenRotMin = -7.0;//крен влево
+c_krenRotMax = 7.0;//крен вправо
+c_krenForwardCoef = 0.3;//постепенное увеличение крена вперед
+c_krenBackCoef = 0.3;//постепенное увеличение  крена назад
+c_krenLeftRightCoef = 0.4;//постепенное увеличение крена в стороны
+c_dampingKrenForwardCoef = 0.4;//свободное уменьшение крена вперед
+c_dampingKrenBackCoef = 0.4;//свободное уменьшение крена назад
+c_dampingKrenLeftRightCoef = 0.4;//свободное уменьшение крена в стороны
+
+c_Weather_rotCoef = 0.005;//сила течения
+m_BoatSpeedWind_coef = 0.01;//сила ветра
+
+ "z_zatrat": 0.001, - коэффициент траты - чем больше число тем быстрее бенз тратится
+"maxFuel": 30.0, - максимальный размер бака.
+"gasoline_respawn": 1.0 - заполнять ли баг при первом спавне
+
+//////////РУС//////////// 
+Описание настроек лодки(конфиг лодки папка boat_sib в папке профиля сервера)
+
+c_heightCoef = 0.6; // shift in height above water level
+c_maxSpeedForward = 16.0; // max forward speed
+c_maxSpeedBack = 10.0; // max speed back
+c_speedForwardCoef = 0.03; // increase forward speed
+c_speedBackCoef = 0.02; // increase back speed
+c_dampingSpeedForwardCoef = 0.04; // effect of idle speed decrease if swimming forward
+c_dampingSpeedBackCoef = 0.03; // effect of idle speed decrease if swimming backward
+c_brakingForward = 0.05; // braking effect if swam forward and pressed back
+c_brakingBack = 0.05; // braking effect if swam back and pressed forward
+c_rotationCoef = 0.5; // max rotation angle, also depends on speed, the higher the speed, the more accurate to this value
+c_krenMin = -3.0; // roll forward
+c_krenMax = 3.0; // roll back
+c_krenRotMin = -7.0; // roll left
+c_krenRotMax = 7.0; // roll to the right
+c_krenForwardCoef = 0.3; // gradual increase of the forward roll
+c_krenBackCoef = 0.3; // gradual increase in the roll back
+c_krenLeftRightCoef = 0.4; // gradual increase in the roll to the sides
+c_dampingKrenForwardCoef = 0.4; // free roll forward decrease
+c_dampingKrenBackCoef = 0.4; // free roll back decrease
+c_dampingKrenLeftRightCoef = 0.4; // free roll reduction to the sides
+
+c_Weather_rotCoef = 0.005; // current strength
+m_BoatSpeedWind_coef = 0.01; // wind strength
+
+"z_zatrat": 0.001, - spending coefficient - the higher the number, the faster the gasoline is spent
+"maxFuel": 30.0, - maximum tank size.
+"gasoline_respawn": 1.0 - whether to fill the tank on the first spawn 
+
