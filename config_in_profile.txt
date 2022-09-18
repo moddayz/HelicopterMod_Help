@@ -15,7 +15,7 @@ The folder with the config of each helicopter is located in the server profile f
 "inclineMouse": 2.5 , - side inclination speed Mouse
 "front tiltMouse": 2.5 , - tilt in front and back Mouse
 "m povorot": 0.5 , - rotation speed
-///if you turn off all damage, then the helicopter will no longer receive damage from bullets
+//if all parameters are set to 0 ground damage, then the helicopter gets invulnerable from all damage and bullets and ground.
 "Chassis": 0 - 1000 multiplies damage from the earth by the number in the parameter (0 disables) 2 multiplies by 2 - wheels
 "Body": 0 - 1000 multiplies damagefrom the earth by number in parameter (0 disables) 2 multiplies by 2 - body
 "Engine": 0 - 1000 multiplies damagefrom the earth by number in parameter (0 disables) 2 multiplies by 2 - engine (if the is damaged, it will not be able 
@@ -24,7 +24,7 @@ to keep high speeds because of this, the helicopter will not be able to take off
 "Rotor1": 0 - 1000 multiplies the damagefrom the earth by the number in the parameter (0 disables) 2 multiplies the main rotor by 2
 "Rotor2": 0 - 1000 multiplies the damagefrom the earth by the number in the parameter (0 disables) 2 multiplies rotor 2 by 2 (if damaged, the helicopter 
 loses control and will spin around its axis)
-///if you turn off all damage, then the helicopter will no longer receive damage from bullets
+//if all parameters are set to 0 ground damage, then the helicopter gets invulnerable from all damage and bullets and ground.
 "kill z": 0 , example 0-1- deal damage to players with damage from a blow(off damage 0)
 "gasoline costs": 0.001 , - gasoline waste
 "gasoline restart": 1 , example 0-1- automatic refueling at spawn
@@ -57,7 +57,7 @@ loses control and will spin around its axis)
 "inclineMouse": 2.5 , - скорость наклона в бок мышью
 "front tiltMouse": 2.5 , -наклон в перед и назад мышью
 "m povorot": 0.5 , - скорость поворота на 90 градусов
-///если отключить весь урон, то вертолет больше не будет получать урон от пуль и земли
+//если все парметры на 0 урона земли, то вертолет получает режим неуязвимый от всего урона и пуль и земли.
 "Шасси": 0 - 1000 умножает урон от земли на число в параметре (0 отключает) 2 умножает на 2 - колеса
 "Тело": 0 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает на 2 - тело
 "Двигатель": 1 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает на 2 - двигатель (если поврежден вертолет 
@@ -65,7 +65,7 @@ loses control and will spin around its axis)
 "Топливо": 0 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает на 2 - бак(если поврежден вертолет будет теляь топливо)
 "Ротор1": 0 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает несущий винт на 2
 "Ротор2": 0 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает ротор 2 на 2( если поврежден вертолет будет крутиться вокруг своей оси)
-//если отключить все повреждения, то вертолет больше не будет получать урон от пуль и земли
+//если все парметры на 0 урона земли, то вертолет получает режим неуязвимый от всего урона и пуль и земли.
 "kill z": 0 , пример 1-0 - наносить урон игрокам при повреждении от удара
 "gasoline costs": 0.001 , - трата бензина
 "gasoline restart": 1 , пример 1-0- автоматическая заправка при спавне
