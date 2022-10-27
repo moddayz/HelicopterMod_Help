@@ -1,6 +1,6 @@
 <type name="Boat_SIB0">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -10,7 +10,7 @@
 </type>
 <type name="Boat_SIB0_clear">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -20,7 +20,7 @@
 </type>
 <type name="fishing_boat_SIB0">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -30,7 +30,7 @@
 </type>
 <type name="fishing_boat_SIB0_clear">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -40,7 +40,7 @@
 </type>
 <type name="powerboat_boat_SIB0">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -50,7 +50,7 @@
 </type>
 <type name="powerboat_boat_SIB0_clear">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -60,7 +60,7 @@
 </type>
 <type name="luxury_boat_SIB0">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -70,7 +70,7 @@
 </type>
 <type name="luxury_boat_SIB0_clear">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
