@@ -29,8 +29,8 @@
 <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 </type>
 <type name="Helipolice_swat_SIB5_clear">
-<nominal>3888000</nominal>
-<lifetime>3</lifetime>
+<nominal>0</nominal>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
