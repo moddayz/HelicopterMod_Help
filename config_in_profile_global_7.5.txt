@@ -1,0 +1,88 @@
+//////////ENG///////
+The folder with the config of each helicopter is located in the server profile folder in the heli_sib folder
+//////////ENG///////
+
+"duration": 0.05 , - rotor spin speed
+"Lift power": 1.5 , - air resistance level - for large helicopters there should be more
+"No power": 700 , - how much the helicopter loses traction compared to Full power
+"Full power": 750 , - the maximum height when the helicopter loses its thrust
+"side strength": 1.3 , - main rotor erosion
+"power before": 1 , - power of the rear rotor
+"friction": 0.3 , - friction coefficient
+"Mass": 1500.81 , - weight
+"incline": 0.5 , - side inclination speed
+"front tilt": 0.5 , - tilt in front and back
+"inclineMouse": 2.5 , - side inclination speed Mouse
+"front tiltMouse": 2.5 , - tilt in front and back Mouse
+"m povorot": 0.5 , - rotation speed
+//if all parameters are set to 0 ground damage, then the helicopter gets invulnerable from all damage and bullets and ground.
+"Chassis": 0 - 1000 multiplies damage from the earth by the number in the parameter (0 disables) 2 multiplies by 2 - wheels
+"Body": 0 - 1000 multiplies damagefrom the earth by number in parameter (0 disables) 2 multiplies by 2 - body
+"Engine": 0 - 1000 multiplies damagefrom the earth by number in parameter (0 disables) 2 multiplies by 2 - engine (if the is damaged, it will not be able 
+to keep high speeds because of this, the helicopter will not be able to take off and will slowly fall)
+"Fuel": 0 - 1000 multiplies the damagefrom the earth by the number in the parameter (0 disables) 2 multiplies by 2 - tank (if damaged then gasoline will decrease rapidly)
+"Rotor1": 0 - 1000 multiplies the damagefrom the earth by the number in the parameter (0 disables) 2 multiplies the main rotor by 2
+"Rotor2": 0 - 1000 multiplies the damagefrom the earth by the number in the parameter (0 disables) 2 multiplies rotor 2 by 2 (if damaged, the helicopter 
+loses control and will spin around its axis)
+//if all parameters are set to 0 ground damage, then the helicopter gets invulnerable from all damage and bullets and ground.
+"kill z": 0 , example 0-1- deal damage to players with damage from a blow(off damage 0)
+"gasoline costs": 0.001 , - gasoline waste
+"gasoline restart": 1 , example 0-1- automatic refueling at spawn
+"c camDistance": 10 , example 0.1-100 - distance camera
+"maxFuel": 30 , example 0.1-100 - max Fuel
+"m Crash dem": 15 , example 0.1-100 - maximum speed at which the sound of Crash
+"m engineVolume": 1 , example 0.001-100 - Volume sound engine
+"m rotorVolume": 1 , example 0.001-100 - Volume sound rotor
+"m warningVolume": 1 , example 0.001-100 - Volume sound warning
+"m crashVolume": 1 , example 0.001-100 - Volume sound crash
+"m_startSoundVolume": 1.0, example 0.001-100 - engine start sound level
+"m_stopSoundVolume": 1.0, example 0.001-100 - engine shutdown sound level
+"hud_1rdPerson": 0.0, - if 1 then enable 1st person HUD
+"menu_1rdPerson": 0.0, - if 1 then enable Menu in 1st person
+"coef_damage_cont": 1.0, - Increases total earth damage or decreases (multiply) (0.5 x2 damage reduction) (2.0 x2 damage increase)
+"coef_damage_weapom": 1.0 - increases or decreases (multiplies) damage from firearms (0.5 damage reduction by 2 times) (2.0 damage increase by 2 times)
+
+
+//////////RUS///////
+Папка с конфигом каждого вертолета находится в папке профиля сервера в папку heli_sib
+//////////RUS///////
+ 
+"duration": 0.05 , - скорость раскрутки ротора
+"Lift power": 1.5 , - уровень сопротивления воздуху - для больших вертолетов должно быть больше
+"No power": 700 , - на сколько вертолет теряет тягу посравнению с Full power
+"Full power": 750 , - максимальная высота когда вертолет теряет поную тягу
+"side strength": 1.3 , - мошность главного ротора
+"power before": 1 , - мощность заднего ротора
+"friction": 0.3 , - коофициент трения
+"Mass": 1500.81 , - вес
+"incline": 0.5 , - скорость наклона в бок
+"front tilt": 0.5 , - наклон в перед и назад
+"inclineMouse": 2.5 , - скорость наклона в бок мышью
+"front tiltMouse": 2.5 , -наклон в перед и назад мышью
+"m povorot": 0.5 , - скорость поворота на 90 градусов
+//если все парметры на 0 урона земли, то вертолет получает режим неуязвимый от всего урона и пуль и земли.
+"Chassis": 0 - 1000 умножает урон от земли на число в параметре (0 отключает) 2 умножает на 2 - колеса
+"Body": 0 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает на 2 - тело
+"Engine": 1 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает на 2 - двигатель (если поврежден вертолет 
+не сможет набирать высоту и будет снижаться)
+"Fuel": 0 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает на 2 - бак(если поврежден вертолет будет теляь топливо)
+"Rotor1": 0 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает несущий винт на 2
+"Rotor2": 0 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает ротор 2 на 2( если поврежден вертолет будет крутиться вокруг своей оси)
+//если все парметры на 0 урона земли, то вертолет получает режим неуязвимый от всего урона и пуль и земли.
+"kill z": 0 , пример 1-0 - наносить урон игрокам при повреждении от удара
+"gasoline costs": 0.001 , - трата бензина
+"gasoline restart": 1 , пример 1-0- автоматическая заправка при спавне
+"c_camDistance": 10 , пример 0.1-100- дальность камеры
+"maxFuel": 10 пример 0.1-100- макс бензина
+"m Crash dem": 15 пример 0.1-100- максимальная скорость при котором будет звук урона
+"m engineVolume": 1 , example 0.001-100 - уровень звука engine
+"m rotorVolume": 1 , example 0.001-100 - уровень звука rotor
+"m warningVolume": 1 , example 0.001-100 - уровень звука warning
+"m crashVolume": 1 , example 0.001-100 - уровень звука crash
+"m_startSoundVolume": 1.0,  example 0.001-100 - уровень звука запуска двигателя   
+"m_stopSoundVolume": 1.0, example 0.001-100 - уровень звука выключение двигателя   
+"hud_1rdPerson": 0.0, - если 1 то включает HUD от 1-го лица
+"menu_1rdPerson": 0.0, - если 1 то включает Menu от 1-го лица
+"coef_damage_cont": 1.0, - увеличивает общий урон земли или уменьшает (умножение) (0.5 уменьшение урона в 2 раза) (2.0 увеличение урона в 2 раза)
+"coef_damage_weapom": 1.0 - увеличивает или уменьшает(умножает) урон от огнестрельного оружия(0.5 уменьшение урона в 2 раза) (2.0 увеличение урона в 2 раза)
+
