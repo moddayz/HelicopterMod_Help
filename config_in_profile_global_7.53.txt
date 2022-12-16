@@ -27,7 +27,7 @@ loses control and will spin around its axis)
 //if all parameters are set to 0 ground damage, then the helicopter gets invulnerable from all damage and bullets and ground.
 "kill z": 0 , example 0-1- deal damage to players with damage from a blow(off damage 0)
 "gasoline costs": 0.001 , - gasoline waste
-"gasoline restart": 1 , example 0-1- automatic refueling at spawn
+"gasoline spawn": 1 , example 0-1- automatic refueling at spawn
 "c camDistance": 10 , example 0.1-100 - distance camera
 "maxFuel": 30 , example 0.1-100 - max Fuel
 "m Crash dem": 15 , example 0.1-100 - maximum speed at which the sound of Crash
@@ -40,7 +40,7 @@ loses control and will spin around its axis)
 "hud_1rdPerson": 0.0, - if 1 then enable 1st person HUD
 "menu_1rdPerson": 0.0, - if 1 then enable Menu in 1st person
 "coef_damage_cont": 1.0, - Increases total earth damage or decreases (multiply) (0.5 x2 damage reduction) (2.0 x2 damage increase)
-"coef_damage_weapom": 1.0 - increases or decreases (multiplies) damage from firearms (0.5 damage reduction by 2 times) (2.0 damage increase by 2 times)
+"coef_damage_weapon": 1.0 - increases or decreases (multiplies) damage from firearms (0.5 damage reduction by 2 times) (2.0 damage increase by 2 times)
 
 
 //////////RUS///////
@@ -71,7 +71,7 @@ loses control and will spin around its axis)
 //если все парметры на 0 урона земли, то вертолет получает режим неуязвимый от всего урона и пуль и земли.
 "kill z": 0 , пример 1-0 - наносить урон игрокам при повреждении от удара
 "gasoline costs": 0.001 , - трата бензина
-"gasoline restart": 1 , пример 1-0- автоматическая заправка при спавне
+"gasoline spawn": 1 , пример 1-0- автоматическая заправка при спавне
 "c_camDistance": 10 , пример 0.1-100- дальность камеры
 "maxFuel": 10 пример 0.1-100- макс бензина
 "m Crash dem": 15 пример 0.1-100- максимальная скорость при котором будет звук урона
@@ -84,5 +84,5 @@ loses control and will spin around its axis)
 "hud_1rdPerson": 0.0, - если 1 то включает HUD от 1-го лица
 "menu_1rdPerson": 0.0, - если 1 то включает Menu от 1-го лица
 "coef_damage_cont": 1.0, - увеличивает общий урон земли или уменьшает (умножение) (0.5 уменьшение урона в 2 раза) (2.0 увеличение урона в 2 раза)
-"coef_damage_weapom": 1.0 - увеличивает или уменьшает(умножает) урон от огнестрельного оружия(0.5 уменьшение урона в 2 раза) (2.0 увеличение урона в 2 раза)
+"coef_damage_weapon": 1.0 - увеличивает или уменьшает(умножает) урон от огнестрельного оружия(0.5 уменьшение урона в 2 раза) (2.0 увеличение урона в 2 раза)
 
