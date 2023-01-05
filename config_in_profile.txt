@@ -25,7 +25,9 @@ to keep high speeds because of this, the helicopter will not be able to take off
 "Rotor2": 0 - 1000 multiplies the damagefrom the earth by the number in the parameter (0 disables) 2 multiplies rotor 2 by 2 (if damaged, the helicopter 
 loses control and will spin around its axis)
 //if all parameters are set to 0 ground damage, then the helicopter gets invulnerable from all damage and bullets and ground.
-"kill z": 0 , example 0-1- deal damage to players with damage from a blow(off damage 0)
+"kill_z": 0 , example 0-1- deal damage to players with damage from a blow(off damage 0)
+"kill_smoke": 1, example 1-0 - if the engine is badly damaged, then black smoke starts. (off  0)
+"kill_explosion": 1, - example 1 - 0 - if you kill the helicopter - there will be an explosion - kills the blades and players. (off  0)
 "gasoline costs": 0.001 , - gasoline waste
 "gasoline spawn": 1 , example 0-1- automatic refueling at spawn
 "c camDistance": 10 , example 0.1-100 - distance camera
@@ -41,7 +43,8 @@ loses control and will spin around its axis)
 "menu_1rdPerson": 0.0, - if 1 then enable Menu in 1st person
 "coef_damage_cont": 1.0, - Increases total earth damage or decreases (multiply) (0.5 x2 damage reduction) (2.0 x2 damage increase)
 "coef_damage_weapon": 1.0 - increases or decreases (multiplies) damage from firearms (0.5 damage reduction by 2 times) (2.0 damage increase by 2 times)
-
+"auto_off_autopilot": 0 - if 1 and there are no pilots at the controls, disable autopilot
+"auto_engine_shutdown": 0 - if 1 and there are no pilots at the controls, turn off the engine
 
 //////////RUS///////
 Папка с конфигом каждого вертолета находится в папке профиля сервера в папку heli_sib
@@ -70,6 +73,8 @@ loses control and will spin around its axis)
 "Rotor2": 0 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает ротор 2 на 2( если поврежден вертолет будет крутиться вокруг своей оси)
 //если все парметры на 0 урона земли, то вертолет получает режим неуязвимый от всего урона и пуль и земли.
 "kill z": 0 , пример 1-0 - наносить урон игрокам при повреждении от удара
+"kill_smoke": 1, пример 1-0 - если двигатель сильно поврежден, то начинается черный дым.
+"kill_explosion": 1, - пример 1 - 0 - если убить вертолет - будет взрыв - убивает лопастей и игроков.
 "gasoline costs": 0.001 , - трата бензина
 "gasoline spawn": 1 , пример 1-0- автоматическая заправка при спавне
 "c_camDistance": 10 , пример 0.1-100- дальность камеры
@@ -85,4 +90,5 @@ loses control and will spin around its axis)
 "menu_1rdPerson": 0.0, - если 1 то включает Menu от 1-го лица
 "coef_damage_cont": 1.0, - увеличивает общий урон земли или уменьшает (умножение) (0.5 уменьшение урона в 2 раза) (2.0 увеличение урона в 2 раза)
 "coef_damage_weapon": 1.0 - увеличивает или уменьшает(умножает) урон от огнестрельного оружия(0.5 уменьшение урона в 2 раза) (2.0 увеличение урона в 2 раза)
-
+"auto_off_autopilot": 0 - если 1 и пилотов за штурвалом нет, отключить автопилот
+"auto_engine_shutdown": 0 - если 1 и пилотов за штурвалом нет, отключить двигатель
