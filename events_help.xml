@@ -37,6 +37,10 @@
 <child lootmax="0" lootmin="0" max="5" min="3" type="HeliMH6_SIB_clear"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_hommade"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_hommade_clear"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="Heliec135_SIB"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="Heliec135_SIB_clear"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="Heliec135_SIB_hell"/>
+<child lootmax="0" lootmin="0" max="5" min="3" type="Heliec135_SIB_hell_clear"/>
 </children>
 </event>
 
