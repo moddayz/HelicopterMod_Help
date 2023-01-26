@@ -26,9 +26,20 @@ c_dampingKrenLeftRightCoef = 0.4;//свободное уменьшение кр�
 c_Weather_rotCoef = 0.005;//сила течения
 m_BoatSpeedWind_coef = 0.01;//сила ветра
 
- "z_zatrat": 0.001, - коэффициент траты - чем больше число тем быстрее бенз тратится
+"kolesoz": 1.0,  - не используется  
+"obshivka": 1.0, - не используется  
+"c_start_stop_Sound": 1.0, - шум остановки двигателя 
+"c_low_high_Sound": 0.5,- шум двигателя на шифте
+"c_voda_Sound": 0.5, - шум воды ударяющейся о борт лодки
+"m_engineEffectL_1": -35.0, - эффект брызг воды начало двигатель 1
+"m_engineEffectL_2": 100.0,- эффект брызг воды конец двигатель 1
+"m_engineEffectR_1": -35.0,  - эффект брызг воды начало двигатель 2
+"m_engineEffectR_2": 100.0, - эффект брыз воды конец двигатель 2
+"z_zatrat": 0.001, - коэффициент траты - чем больше число тем быстрее бензина тратится
 "maxFuel": 30.0, - максимальный размер бака.
-"gasoline_respawn": 1.0 - заполнять ли баг при первом спавне
+"gasoline_respawn": 1.0,  1.0 - заполнять ли бак при первом спавне
+"hud_1rdPerson": 0.0, - если 1 то включает HUD от 1-го лица
+"menu_1rdPerson": 0.0, - если 1 то включает Menu от 1-го лица
 
 //////////РУС//////////// 
 Описание настроек лодки(конфиг лодки папка boat_sib в папке профиля сервера)
@@ -57,7 +68,17 @@ c_dampingKrenLeftRightCoef = 0.4; // free roll reduction to the sides
 c_Weather_rotCoef = 0.005; // current strength
 m_BoatSpeedWind_coef = 0.01; // wind strength
 
+"kolesoz": 1.0, - not used
+"obshivka": 1.0, - not used
+"c_start_stop_Sound": 1.0, - engine stop noise
+"c_low_high_Sound": 0.5,- engine noise on shift
+"c_voda_Sound": 0.5, - the sound of water hitting the side of the boat
+"m_engineEffectL_1": -35.0, - water splash effect start engine 1
+"m_engineEffectL_2": 100.0,- water splash effect end engine 1
+"m_engineEffectR_1": -35.0, - water splash effect start engine 2
+"m_engineEffectR_2": 100.0, - water splash effect end engine 2
 "z_zatrat": 0.001, - spending coefficient - the higher the number, the faster the gasoline is spent
 "maxFuel": 30.0, - maximum tank size.
-"gasoline_respawn": 1.0 - whether to fill the tank on the first spawn 
-
+"gasoline_respawn": 1.0, 1.0 - whether to refill the tank on the first spawn
+"hud_1rdPerson": 0.0, - if 1 then enable 1st person HUD
+"menu_1rdPerson": 0.0, - if 1 then enable Menu in 1st person
