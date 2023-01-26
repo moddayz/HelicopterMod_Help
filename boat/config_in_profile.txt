@@ -2,6 +2,48 @@
 
 Description of helicopter settings (config boat folder boat_sib) in the server profile folder
 
+ c_heightCoef = 0.6; // shift in height above water level
+c_maxSpeedForward = 16.0; // max forward speed
+c_maxSpeedBack = 10.0; // max speed back
+c_speedForwardCoef = 0.03; // increase forward speed
+c_speedBackCoef = 0.02; // increase back speed
+c_dampingSpeedForwardCoef = 0.04; // effect of idle speed decrease if swimming forward
+c_dampingSpeedBackCoef = 0.03; // effect of idle speed decrease if swimming backward
+c_brakingForward = 0.05; // braking effect if swam forward and pressed back
+c_brakingBack = 0.05; // braking effect if swam back and pressed forward
+c_rotationCoef = 0.5; // max rotation angle, also depends on speed, the higher the speed, the more accurate to this value
+c_krenMin = -3.0; // roll forward
+c_krenMax = 3.0; // roll back
+c_krenRotMin = -7.0; // roll left
+c_krenRotMax = 7.0; // roll to the right
+c_krenForwardCoef = 0.3; // gradual increase of the forward roll
+c_krenBackCoef = 0.3; // gradual increase in the roll back
+c_krenLeftRightCoef = 0.4; // gradual increase in the roll to the sides
+c_dampingKrenForwardCoef = 0.4; // free roll forward decrease
+c_dampingKrenBackCoef = 0.4; // free roll back decrease
+c_dampingKrenLeftRightCoef = 0.4; // free roll reduction to the sides
+
+c_Weather_rotCoef = 0.005; // current strength
+m_BoatSpeedWind_coef = 0.01; // wind strength
+
+"kolesoz": 1.0, - not used
+"obshivka": 1.0, - not used
+"c_start_stop_Sound": 1.0, - engine stop noise
+"c_low_high_Sound": 0.5,- engine noise on shift
+"c_voda_Sound": 0.5, - the sound of water hitting the side of the boat
+"m_engineEffectL_1": -35.0, - water splash effect start engine 1
+"m_engineEffectL_2": 100.0,- water splash effect end engine 1
+"m_engineEffectR_1": -35.0, - water splash effect start engine 2
+"m_engineEffectR_2": 100.0, - water splash effect end engine 2
+"z_zatrat": 0.001, - spending coefficient - the higher the number, the faster the gasoline is spent
+"maxFuel": 30.0, - maximum tank size.
+"gasoline_respawn": 1.0, 1.0 - whether to refill the tank on the first spawn
+"hud_1rdPerson": 0.0, - if 1 then enable 1st person HUD
+"menu_1rdPerson": 0.0, - if 1 then enable Menu in 1st person
+
+//////////РУС//////////// 
+Описание настроек лодки(конфиг лодки папка boat_sib в папке профиля сервера)
+
 c_heightCoef = 0.6;//сдвиг по высоте над уровнем воды
 c_maxSpeedForward = 16.0;//макс скорость вперед
 c_maxSpeedBack = 10.0;//макс скорость назад
@@ -41,44 +83,4 @@ m_BoatSpeedWind_coef = 0.01;//сила ветра
 "hud_1rdPerson": 0.0, - если 1 то включает HUD от 1-го лица
 "menu_1rdPerson": 0.0, - если 1 то включает Menu от 1-го лица
 
-//////////РУС//////////// 
-Описание настроек лодки(конфиг лодки папка boat_sib в папке профиля сервера)
 
-c_heightCoef = 0.6; // shift in height above water level
-c_maxSpeedForward = 16.0; // max forward speed
-c_maxSpeedBack = 10.0; // max speed back
-c_speedForwardCoef = 0.03; // increase forward speed
-c_speedBackCoef = 0.02; // increase back speed
-c_dampingSpeedForwardCoef = 0.04; // effect of idle speed decrease if swimming forward
-c_dampingSpeedBackCoef = 0.03; // effect of idle speed decrease if swimming backward
-c_brakingForward = 0.05; // braking effect if swam forward and pressed back
-c_brakingBack = 0.05; // braking effect if swam back and pressed forward
-c_rotationCoef = 0.5; // max rotation angle, also depends on speed, the higher the speed, the more accurate to this value
-c_krenMin = -3.0; // roll forward
-c_krenMax = 3.0; // roll back
-c_krenRotMin = -7.0; // roll left
-c_krenRotMax = 7.0; // roll to the right
-c_krenForwardCoef = 0.3; // gradual increase of the forward roll
-c_krenBackCoef = 0.3; // gradual increase in the roll back
-c_krenLeftRightCoef = 0.4; // gradual increase in the roll to the sides
-c_dampingKrenForwardCoef = 0.4; // free roll forward decrease
-c_dampingKrenBackCoef = 0.4; // free roll back decrease
-c_dampingKrenLeftRightCoef = 0.4; // free roll reduction to the sides
-
-c_Weather_rotCoef = 0.005; // current strength
-m_BoatSpeedWind_coef = 0.01; // wind strength
-
-"kolesoz": 1.0, - not used
-"obshivka": 1.0, - not used
-"c_start_stop_Sound": 1.0, - engine stop noise
-"c_low_high_Sound": 0.5,- engine noise on shift
-"c_voda_Sound": 0.5, - the sound of water hitting the side of the boat
-"m_engineEffectL_1": -35.0, - water splash effect start engine 1
-"m_engineEffectL_2": 100.0,- water splash effect end engine 1
-"m_engineEffectR_1": -35.0, - water splash effect start engine 2
-"m_engineEffectR_2": 100.0, - water splash effect end engine 2
-"z_zatrat": 0.001, - spending coefficient - the higher the number, the faster the gasoline is spent
-"maxFuel": 30.0, - maximum tank size.
-"gasoline_respawn": 1.0, 1.0 - whether to refill the tank on the first spawn
-"hud_1rdPerson": 0.0, - if 1 then enable 1st person HUD
-"menu_1rdPerson": 0.0, - if 1 then enable Menu in 1st person
