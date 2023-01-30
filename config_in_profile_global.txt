@@ -1,11 +1,11 @@
 //////////ENG///////
 
 "anti_fly": 0.0, - turns on by 1 and turns off by 0 - teleport the player if he appeared in the air.
-"anti_fly_height": 50.0 - the height at which the teleport turns on
+"anti_fly_height": 50.0 - minimal the height at which the teleport turns on
 
 //////////RUS///////
 >>>>>>>>>config в папке профиля сервера в папке Heli_sib <<<<<<<<<<<
  
  
 "anti_fly": 0.0, - включает  на 1 и выключает на 0 - телепорт игрока если он появился в воздухе.
-"anti_fly_height": 50.0 - высота на которой включается телепорт
+"anti_fly_height": 50.0 - минимальная высота на которой включается телепорт
