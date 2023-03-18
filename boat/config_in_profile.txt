@@ -38,8 +38,8 @@ m_BoatSpeedWind_coef = 0.01; // wind strength
 "z_zatrat": 0.001, - spending coefficient - the higher the number, the faster the gasoline is spent
 "maxFuel": 30.0, - maximum tank size.
 "gasoline_respawn": 1.0, 1.0 - whether to refill the tank on the first spawn
-"hud_1rdPerson": 0.0, - if 1 then enable 1st person HUD
-"menu_1rdPerson": 0.0, - if 1 then enable Menu in 1st person
+"hud_1rdPerson": 0.0, - if 1 then enable 1st person HUD, if -1 then disables HUD 3rd person
+"menu_1rdPerson": 0.0, - if 1 then enable Menu in 1st person, if -1 then disables Menu 3rd person 
 
 //////////РУС//////////// 
 Описание настроек лодки(конфиг лодки папка boat_sib в папке профиля сервера)
@@ -80,7 +80,7 @@ m_BoatSpeedWind_coef = 0.01;//сила ветра
 "z_zatrat": 0.001, - коэффициент траты - чем больше число тем быстрее бензина тратится
 "maxFuel": 30.0, - максимальный размер бака.
 "gasoline_respawn": 1.0,  1.0 - заполнять ли бак при первом спавне
-"hud_1rdPerson": 0.0, - если 1 то включает HUD от 1-го лица
-"menu_1rdPerson": 0.0, - если 1 то включает Menu от 1-го лица
+"hud_1rdPerson": 0.0, - если 1, то включить HUD от 1-го лица, если -1 то отключить HUD от 3-го лица
+"menu_1rdPerson": 0.0, - если 1 то включить Меню от 1-го лица, если -1 то отключить Меню от 3-го лица
 
 
