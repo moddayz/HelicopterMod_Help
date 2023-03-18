@@ -39,12 +39,13 @@ loses control and will spin around its axis)
 "m crashVolume": 1 , example 0.001-100 - Volume sound crash
 "m_startSoundVolume": 1.0, example 0.001-100 - engine start sound level
 "m_stopSoundVolume": 1.0, example 0.001-100 - engine shutdown sound level
-"hud_1rdPerson": 0.0, - if 1 then enable 1st person HUD
-"menu_1rdPerson": 0.0, - if 1 then enable Menu in 1st person
+"hud_1rdPerson": 0.0, - if 1 then enable 1st person HUD, if -1 then disables HUD 3rd person
+"menu_1rdPerson": 0.0, - if 1 then enable Menu in 1st person, if -1 then disables Menu 3rd person 
 "coef_damage_cont": 1.0, - Increases total earth damage or decreases (multiply) (0.5 x2 damage reduction) (2.0 x2 damage increase)
 "coef_damage_weapon": 1.0 - increases or decreases (multiplies) damage from firearms (0.5 damage reduction by 2 times) (2.0 damage increase by 2 times)
 "auto_off_autopilot": 0 - if 1 and there are no pilots at the controls, disable autopilot
 "auto_engine_shutdown": 0 - if 1 and there are no pilots at the controls, turn off the engine
+"smoke_costs": 5.0 - if the helicopter is smoking it does that much damage every 60 seconds(on average, a helicopter has 3000hp, that is, it will kill the whole body of the helicopter in 10 hours)
 
 //////////RUS///////
 Папка с конфигом каждого вертолета находится в папке профиля сервера в папку heli_sib
@@ -86,9 +87,10 @@ loses control and will spin around its axis)
 "m crashVolume": 1 , example 0.001-100 - уровень звука crash
 "m_startSoundVolume": 1.0,  example 0.001-100 - уровень звука запуска двигателя   
 "m_stopSoundVolume": 1.0, example 0.001-100 - уровень звука выключение двигателя   
-"hud_1rdPerson": 0.0, - если 1 то включает HUD от 1-го лица
-"menu_1rdPerson": 0.0, - если 1 то включает Menu от 1-го лица
+"hud_1rdPerson": 0.0, - если 1 то включает HUD от 1-го лица, если -1 то отключает от 3го лица
+"menu_1rdPerson": 0.0, - если 1 то включает Menu от 1-го лица, если -1 то отключает от 3го лица
 "coef_damage_cont": 1.0, - увеличивает общий урон земли или уменьшает (умножение) (0.5 уменьшение урона в 2 раза) (2.0 увеличение урона в 2 раза)
 "coef_damage_weapon": 1.0 - увеличивает или уменьшает(умножает) урон от огнестрельного оружия(0.5 уменьшение урона в 2 раза) (2.0 увеличение урона в 2 раза)
 "auto_off_autopilot": 0 - если 1 и пилотов за штурвалом нет, отключить автопилот
 "auto_engine_shutdown": 0 - если 1 и пилотов за штурвалом нет, отключить двигатель
+"smoke_costs": 5.0 - если вертолет дымится то наносит столько урона каждые 60 секунд(в среднем у вертолета 3000хп то есть убьет целый корпус вертолета через 10 часов)
