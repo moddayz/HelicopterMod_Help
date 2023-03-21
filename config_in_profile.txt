@@ -47,7 +47,8 @@ loses control and will spin around its axis)
 "coef_damage_weapon": 1.0 - increases or decreases (multiplies) damage from firearms (0.5 damage reduction by 2 times) (2.0 damage increase by 2 times)
 "auto_off_autopilot": 0 - if 1 and there are no pilots at the controls, disable autopilot
 "auto_engine_shutdown": 0 - if 1 and there are no pilots at the controls, turn off the engine
-"smoke_costs": 5.0 - if the helicopter is smoking it does that much damage every 60 seconds(on average, a helicopter has 3000hp, that is, it will kill the whole body of the helicopter in 10 hours)
+"smoke_costs": 5.0 - if the helicopter is smoking it does that much damage every 60 seconds(on average, a helicopter has 3000hp,
+that is, it will kill the whole body of the helicopter in 10 hours)
 
 //////////RUS///////
 Папка с конфигом каждого вертолета находится в папке профиля сервера в папку heli_sib
@@ -97,4 +98,5 @@ loses control and will spin around its axis)
 "coef_damage_weapon": 1.0 - увеличивает или уменьшает(умножает) урон от огнестрельного оружия(0.5 уменьшение урона в 2 раза) (2.0 увеличение урона в 2 раза)
 "auto_off_autopilot": 0 - если 1 и пилотов за штурвалом нет, отключить автопилот
 "auto_engine_shutdown": 0 - если 1 и пилотов за штурвалом нет, отключить двигатель
-"smoke_costs": 5.0 - если вертолет дымится то наносит столько урона каждые 60 секунд(в среднем у вертолета 3000хп то есть убьет целый корпус вертолета через 10 часов)
+"smoke_costs": 5.0 - если вертолет дымится то наносит столько урона каждые 60 секунд
+(в среднем у вертолета 3000хп то есть убьет целый корпус вертолета через 10 часов)
