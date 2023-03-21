@@ -18,10 +18,10 @@ The folder with the config of each helicopter is located in the server profile f
 //if all parameters are set to 0 ground damage, then the helicopter gets invulnerable from all damage and bullets and ground.
 "Chassis": 0 - 1000 multiplies damage from the earth by the number in the parameter (0 disables) 2 multiplies by 2 - wheels
 "Body": 0 - 1000 multiplies damagefrom the earth by number in parameter (0 disables) 2 multiplies by 2 - body
-"Engine": 1 - 1000 multiplies ground damage by number in parameter (0 disables) 2 multiplies by 2 - engine (if helicopter is damaged
-will not be able to climb and will descend) (so when the engine has 70% damage, either black or white smoke will start,
-depends on kill_smoke and the hull will start to be damaged, depends on smoke_costs, the rotor blades will also be damaged from engine damage,
-if they are replaced, the engine will be repaired .)
+"Engine": 0.01 - 1000 multiplies ground damage by number in parameter (0 disables) 2 multiplies by 2 - engine (if helicopter is damaged
+will not be able to climb and will descend when the engine has more than 70% damage, black or white smoke will begin,
+depends on kill_smoke and the hull will start to be damaged, depends on smoke_costs, rotor blades are also damaged from engine damage,
+if they are replaced the engine will be repaired)
 "Fuel": 0 - 1000 multiplies the damagefrom the earth by the number in the parameter (0 disables) 2 multiplies by 2 - tank (if damaged then gasoline will decrease rapidly)
 "Rotor1": 0 - 1000 multiplies the damagefrom the earth by the number in the parameter (0 disables) 2 multiplies the main rotor by 2
 "Rotor2": 0 - 1000 multiplies the damagefrom the earth by the number in the parameter (0 disables) 2 multiplies rotor 2 by 2 (if damaged, the helicopter 
@@ -69,10 +69,10 @@ loses control and will spin around its axis)
 //если все парметры на 0 урона земли, то вертолет получает режим неуязвимый от всего урона и пуль и земли.
 "Chassis": 0 - 1000 умножает урон от земли на число в параметре (0 отключает) 2 умножает на 2 - колеса
 "Body": 0 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает на 2 - тело
-"Engine": 1 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает на 2 - двигатель (если поврежден вертолет 
-не сможет набирать высоту и будет снижаться)(так когда у двигателя будет повреждение 70% начнется или черный или белый дым,
-зависит от kill_smoke и начнется повреждаться корпус, зависит от smoke_costs, от урона двигателя поврежаются и лопасти ротора, 
-если их заменить двигатель будет отремантирован.)
+"Engine": 0,01 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает на 2 - двигатель (если поврежден вертолет 
+не сможет набирать высоту и будет снижаться,  когда у двигателя будет повреждение более 70% начнется черный или белый дым,
+зависит от kill_smoke и начнется повреждаться корпус, зависит от smoke_costs, от урона двигателя повреждаются и лопасти ротора,  
+если их заменить двигатель будет отремонтирован)
 "Fuel": 0 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает на 2 - бак(если поврежден вертолет будет теляь топливо)
 "Rotor1": 0 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает несущий винт на 2
 "Rotor2": 0 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает ротор 2 на 2( если поврежден вертолет будет крутиться вокруг своей оси)
