@@ -1,6 +1,6 @@
 <type name="Helipolice_SIB4">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -10,7 +10,7 @@
 </type>
 <type name="Helipolice_SIB4_clear">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -20,7 +20,7 @@
 </type>
 <type name="Helipolice_swat_SIB5">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -30,7 +30,7 @@
 </type>
 <type name="Helipolice_swat_SIB5_clear">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -40,7 +40,7 @@
 </type>
 <type name="HeliSIB_UH1D">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -50,7 +50,7 @@
 </type>
 <type name="HeliSIB_UH1D_clear">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -60,7 +60,7 @@
 </type>
 <type name="HeliSIB_UH1D_airforce">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -70,7 +70,7 @@
 </type>
 <type name="HeliSIB_UH1D_airforce_clear">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -80,7 +80,7 @@
 </type>
 <type name="HeliSIB_UH1D_iron">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -90,7 +90,7 @@
 </type>
 <type name="HeliSIB_UH1D_iron_clear">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -100,7 +100,7 @@
 </type>
 <type name="HeliSIB_UH1D_navy">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -110,7 +110,7 @@
 </type>
 <type name="HeliSIB_UH1D_navy_clear">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -120,7 +120,7 @@
 </type>
 <type name="Heliblack_hawk_SIB">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -130,7 +130,7 @@
 </type>
 <type name="Heliblack_hawk_SIB_clear">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -140,7 +140,7 @@
 </type>
 <type name="Heliblack_hawk_SIB_camo">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -150,7 +150,7 @@
 </type>
 <type name="Heliblack_hawk_SIB_camo_clear">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -160,7 +160,7 @@
 </type>
 <type name="HeliMI17_SIB">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -170,7 +170,7 @@
 </type>
 <type name="HeliMI17_SIB_clear">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -180,7 +180,7 @@
 </type>
 <type name="HeliMH6_SIB">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -190,7 +190,7 @@
 </type>
 <type name="HeliMH6_SIB_clear">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -200,7 +200,7 @@
 </type>
 <type name="HeliSIB_hommade">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
@@ -210,7 +210,48 @@
 </type>
 <type name="HeliSIB_hommade_clear">
 <nominal>0</nominal>
-<lifetime>3</lifetime>
+<lifetime>3888000</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+
+<type name="Heliec135_SIB">
+<nominal>0</nominal>
+<lifetime>3888000</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Heliec135_SIB_clear">
+<nominal>0</nominal>
+<lifetime>3888000</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Heliec135_SIB_hell">
+<nominal>0</nominal>
+<lifetime>3888000</lifetime>
+<restock>1800</restock>
+<min>0</min>
+<quantmin>-1</quantmin>
+<quantmax>-1</quantmax>
+<cost>100</cost>
+<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+</type>
+<type name="Heliec135_SIB_hell_clear">
+<nominal>0</nominal>
+<lifetime>3888000</lifetime>
 <restock>1800</restock>
 <min>0</min>
 <quantmin>-1</quantmin>
