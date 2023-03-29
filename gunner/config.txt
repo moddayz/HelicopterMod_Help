@@ -1,0 +1,37 @@
+"Version" - version
+"Action" - enable the mod
+"Debug" - turn on the log with the position of the gunner in the file "Crew(class name).txt" you need to turn on the debug turn on the place in Type, private Collision, ScriptCollision and scriptfloor switch to the gunner mode at the desired place exit the gunner mode and the coordinate of this point will be in Crew(class name).txt starting points are better to take in PosAuto
+
+"Gunner_Type" - enable guner place (0 disable, 1 enable, 2 - immediately sit in the gunner's seat, bypassing the landing on the seat.)
+"Gunner_Collision" - system for checking (collisions with walls) from bahemia (disable 0, enable 1)
+"Gunner_Intersect" - geometry that is checked in (collisions with walls) Fire(0),View(1),Geom(2),IFire(3),None(4)
+"Gunner_ScriptCollision" - (collisions with walls) check system based on 4 points around the player's circle (disable 0, enable 1)
+"Gunner_script_floor" - disables checking if there is a flat surface under the feet (carefully, this makes it possible to run away from vehicles) (disable 0, enable 1)
+"Gunner_Camera" - camera mode  (0 is standard),(1 only from 1st person),(2 both from first and from 3rd),(3 only from 3rd)
+"Gunner_Distance" - invisible wall is calculated from the distance to enter gunner mode.
+"Gunner_Stance" - body position in guner mode (0 = Standing) (1 = Crouching Down) (2 = Lying Down)
+"Gunner_Move" - enable movement blocking (disable 0, enable 1)
+"Gunner_Dir" - directory of body position at the moment of entering gunner mode
+"Gunner_Pos" - spawn point in gunner mode
+"Gunner_PosAuto" - automatic point generation, example with coordinates in front of the seat.
+*also ideas 9 more repetitions only the number in the name changes 
+☑️ рус 
+в папке профиля при запуске сервера создается автоматически папка gunnersib и в ней создаются все классы техники что знает сервер. описание настроек такое:
+
+"Version" - версия 
+"Action" - включение мода
+"Debug" - включение лог с положением гуннера в файле Crew(имя класса).txt вам нужно включить дебаг включить место в Type, отключить Collision, ScriptCollision и scriptfloor перейти в режим гуннера на нужном месте выйти из режима гунера и координата этой точки будет в  Crew_(имя класса).txt отправные точки лучше брать PosAuto 
+
+"Gunner_Type" - включение места гуннера(0 выключить, 1 включить, 2 - сразу сесть на место гуннера минуя посадку на сиденье.)
+"Gunner_Collision" - система проверки (столкновений со стенами) от багемии (0 выключить, 1 включить)
+"Gunner_Intersect" - геометрия которая проверяется в (столкновений со стенами) Fire(0),View(1),Geom(2),IFire(3),None(4)
+"Gunner_ScriptCollision" - система проверки  (столкновений со стенами) на основе 4 точек во круг игрока (0 выключить, 1 включить)
+"Gunner_script_floor" - отключает проверку есть ли под ногами ровная поверхность(осторожно это дает возможность отбегать от техники)
+"Gunner_Camera" -  режим камеры  (0 стандартно),(1 только от 1го лица),(2 и от первого и от 3го),(3 только от 3-го)
+"Gunner_Distance" - невидимая стена рассчитывается от дистанции входа в режим гуннера.
+"Gunner_Stance" - положение тела в режиме гуннера (0 = стоя) (1 = присев) (2 = лежа)
+"Gunner_Move" - включение блокировки хождения (0 выключить, 1 включить)
+"Gunner_Dir" - директория положения тела в момент входа в режим гуннера
+"Gunner_Pos" - точка появления в режиме гуннера
+"Gunner_PosAuto" - авто генерация точки, пример с координатами перед сиденьем. 
+*также идет еще 9 повторений меняется только цифра в названии 
