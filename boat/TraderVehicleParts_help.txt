@@ -1,10 +1,3 @@
-<VehicleParts>Boat_SIB0_clear
-HatchbackWheel
-HatchbackWheel
-HatchbackWheel
-HatchbackWheel
-SparkPlug
-
 
 <VehicleParts>fishing_boat_SIB0_clear
 HatchbackWheel
