@@ -13,8 +13,6 @@
 <active>1</active>
 <children>
 
-<child lootmax="0" lootmin="0" max="5" min="3" type="Boat_SIB0"/>
-<child lootmax="0" lootmin="0" max="5" min="3" type="Boat_SIB0_clear"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="fishing_boat_SIB0"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="fishing_boat_SIB0_clear"/>
 <child lootmax="0" lootmin="0" max="5" min="3" type="powerboat_boat_SIB0"/>
