@@ -4,8 +4,8 @@ The folder with the config of each helicopter is located in the server profile f
 
 "duration": 0.05 , - rotor spin speed
 "Lift power": 1.5 , - air resistance level - for large helicopters there should be more
-"No power": 700 , - how much the helicopter loses traction compared to Full power
-"Full power": 750 , - the maximum height when the helicopter loses its thrust
+"No power": 700 , - at what altitude the helicopter starts to lose power
+"Full power": 750 , - the maximum height when the helicopter completely lost power
 "side strength": 1.3 , - main rotor erosion
 "power before": 1 , - power of the rear rotor
 "friction": 0.3 , - friction coefficient
@@ -56,8 +56,8 @@ that is, it will kill the whole body of the helicopter in 10 hours)
  
 "duration": 0.05 , - скорость раскрутки ротора
 "Lift power": 1.5 , - уровень сопротивления воздуху - для больших вертолетов должно быть больше
-"No power": 700 , - на сколько вертолет теряет тягу посравнению с Full power
-"Full power": 750 , - максимальная высота когда вертолет теряет поную тягу
+"No power": 700 , - на какой высоте вертолет начинает терять мощность 
+"Full power": 750 , - максимальная высота когда вертолет полностью потерял мощность
 "side strength": 1.3 , - мошность главного ротора
 "power before": 1 , - мощность заднего ротора
 "friction": 0.3 , - коофициент трения
