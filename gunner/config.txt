@@ -11,6 +11,13 @@
 "Gunner_Distance" - invisible wall is calculated from the distance to enter gunner mode.
 "Gunner_Stance" - body position in guner mode (0 = Standing) (1 = Crouching Down) (2 = Lying Down)
 "Gunner_Move" - enable movement blocking (disable 0, enable 1)
+"Gunner_Seat_landing_lock" - disables the inscription to take a seat in transport.(disable 0, enable 1)
+"Gunner_Seat_exit_lock" - disables the inscription to get up from a place in the transport.(disable 0, enable 1)
+"Gunner_Seat_gun_landing_lock" - disables the inscription to sit in the place of the gunner.(disable 0, enable 1)
+"Gunner_Seat_gun_exit_lock" - disables the inscription to get up from the gunner's seat.(disable 0, enable 1)
+"Gunner_Return_to_seat" - turns on the function of returning to the place after a client or relog crash (also turns on the autopilot if the exit was from meta 1 or 2)(disable 0, enable 1)
+"Gunner_Put_to_seat" - adds the ability to put in place in the transport the one who has his hands in handcuffs or his head in a bag.(disable 0, enable 1)
+"Gunner_Kick_to_seat" - adds the ability to kick anyone who occupies this seat from a seat in a transport.(disable 0, enable 1)
 "Gunner_Dir" - directory of body position at the moment of entering gunner mode
 "Gunner_Pos" - spawn point in gunner mode
 "Gunner_PosAuto" - automatic point generation, example with coordinates in front of the seat.
@@ -31,6 +38,13 @@
 "Gunner_Distance" - невидимая стена рассчитывается от дистанции входа в режим гуннера.
 "Gunner_Stance" - положение тела в режиме гуннера (0 = стоя) (1 = присев) (2 = лежа)
 "Gunner_Move" - включение блокировки хождения (0 выключить, 1 включить)
+"Gunner_Seat_landing_lock" - отключает надпись сесть на место в транспорте.(0 выключить, 1 включить)
+"Gunner_Seat_exit_lock" - отключает надпись встать с места в транспорте.(0 выключить, 1 включить)
+"Gunner_Seat_gun_landing_lock" - отключает надпись сесть на место гуннера.(0 выключить, 1 включить)
+"Gunner_Seat_gun_exit_lock" - отключает надпись встать с места гуннера.(0 выключить, 1 включить)
+"Gunner_Return_to_seat" - включает функцию вовзврата на место посе краша клиента или релога(так же включает автопилот если выход был с мета 1 или 2)(0 выключить, 1 включить)
+"Gunner_Put_to_seat" - добавляет возможность посадить на место в ранспорте того у кого руки в наручниках или голова в мешке.(0 выключить, 1 включить)
+"Gunner_Kick_to_seat" - добавляет возможность высодить с места в транспорте любого кто это место занимает.(0 выключить, 1 включить)
 "Gunner_Dir" - директория положения тела в момент входа в режим гуннера
 "Gunner_Pos" - точка появления в режиме гуннера
 "Gunner_PosAuto" - авто генерация точки, пример с координатами перед сиденьем. 
