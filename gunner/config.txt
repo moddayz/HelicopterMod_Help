@@ -2,7 +2,7 @@
 "Action" - !!!enable!!! the mod
 "Debug" - turn on the log with the position of the gunner in the file "Crew(class name).txt" you need to turn on the debug turn on the place in Type, private Collision, ScriptCollision and scriptfloor switch to the gunner mode at the desired place exit the gunner mode and the coordinate of this point will be in Crew(class name).txt starting points are better to take in PosAuto
 
-"Gunner_Type" - !!!enable!!! guner place (0 disable, 1 enable, 2 - immediately sit in the gunner's seat, bypassing the landing on the seat.)
+"Gunner_Type" - type guner place (0 disable, 1 enable, 2 - immediately sit in the gunner's seat, bypassing the landing on the seat.)
 "Gunner_Collision" - system for checking (collisions with walls) from bahemia (disable 0, enable 1)
 "Gunner_Intersect" - geometry that is checked in (collisions with walls) Fire(0),View(1),Geom(2),IFire(3),None(4)
 "Gunner_ScriptCollision" - (collisions with walls) check system based on 4 points around the player's circle (disable 0, enable 1)
