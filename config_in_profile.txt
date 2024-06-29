@@ -30,15 +30,15 @@ loses control and will spin around its axis)
 "kill_z": 0 , example 0-1- deal damage to players with damage from a blow(off damage 0)
 "kill_smoke": 1, example 1-0 - if the engine is badly damaged, then black smoke starts. (off  0)
 "kill_explosion": 1, - example 1 - 0 - if you kill the helicopter - there will be an explosion - kills the blades and players. (off  0)
-"gasoline costs": 0.001 , - gasoline waste
-"gasoline spawn": 1 , example 0-1- automatic refueling at spawn
-"c camDistance": 10 , example 0.1-100 - distance camera
+"gasoline_costs": 0.001 , -waste of gasoline, once every 5 seconds while the engine is running
+"gasoline_spawn": 1 , example 0-1- automatic refueling at spawn
+"c_camDistance": 10 , example 0.1-100 - distance camera
 "maxFuel": 30 , example 0.1-100 - max Fuel
-"m Crash dem": 15 , example 0.1-100 - maximum speed at which the sound of Crash
-"m engineVolume": 1 , example 0.001-100 - Volume sound engine
-"m rotorVolume": 1 , example 0.001-100 - Volume sound rotor
-"m warningVolume": 1 , example 0.001-100 - Volume sound warning
-"m crashVolume": 1 , example 0.001-100 - Volume sound crash
+"m_Crash_dem": 15 , example 0.1-100 - maximum speed at which the sound of Crash
+"m_engineVolume": 1 , example 0.001-100 - Volume sound engine
+"m_rotorVolume": 1 , example 0.001-100 - Volume sound rotor
+"m_warningVolume": 1 , example 0.001-100 - Volume sound warning
+"m_crashVolume": 1 , example 0.001-100 - Volume sound crash
 "m_startSoundVolume": 1.0, example 0.001-100 - engine start sound level
 "m_stopSoundVolume": 1.0, example 0.001-100 - engine shutdown sound level
 "hud_1rdPerson": 0.0, - if 1 then enable 1st person HUD, if -1 then disables HUD 3rd person
@@ -63,9 +63,9 @@ that is, it will kill the whole body of the helicopter in 10 hours)
 "friction": 0.3 , - коофициент трения
 "Mass": 1500.81 , - вес
 "incline": 0.5 , - скорость наклона в бок
-"front tilt": 0.5 , - наклон в перед и назад
+"front_tilt": 0.5 , - наклон в перед и назад
 "inclineMouse": 2.5 , - скорость наклона в бок мышью
-"front tiltMouse": 2.5 , -наклон в перед и назад мышью
+"front_tiltMouse": 2.5 , -наклон в перед и назад мышью
 "m povorot": 0.5 , - скорость поворота на 90 градусов
 //если все парметры на 0 урона земли, то вертолет получает режим неуязвимый от всего урона и пуль и земли.
 "Chassis": 0 - 1000 умножает урон от земли на число в параметре (0 отключает) 2 умножает на 2 - колеса
@@ -78,18 +78,18 @@ that is, it will kill the whole body of the helicopter in 10 hours)
 "Rotor1": 0 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает несущий винт на 2
 "Rotor2": 0 - 1000 умножает урон от земли  на число в параметре (0 отключает) 2 умножает ротор 2 на 2( если поврежден вертолет будет крутиться вокруг своей оси)
 //если все парметры на 0 урона земли, то вертолет получает режим неуязвимый от всего урона и пуль и земли.
-"kill z": 0 , пример 1-0 - наносить урон игрокам при повреждении от удара
+"kill_z": 0 , пример 1-0 - наносить урон игрокам при повреждении от удара
 "kill_smoke": 1, пример 1-0 - если двигатель сильно поврежден, то начинается черный дым.
 "kill_explosion": 1, - пример 1 - 0 - если убить вертолет - будет взрыв - убивает лопастей и игроков.
-"gasoline costs": 0.001 , - трата бензина
-"gasoline spawn": 1 , пример 1-0- автоматическая заправка при спавне
+"gasoline_costs": 0.001 , - трата бензина, раз в 5 секунд пока работает двигатель
+"gasoline_spawn": 1 , пример 1-0- автоматическая заправка при спавне
 "c_camDistance": 10 , пример 0.1-100- дальность камеры
 "maxFuel": 10 пример 0.1-100- макс бензина
-"m Crash dem": 15 пример 0.1-100- максимальная скорость при котором будет звук урона
-"m engineVolume": 1 , example 0.001-100 - уровень звука engine
-"m rotorVolume": 1 , example 0.001-100 - уровень звука rotor
-"m warningVolume": 1 , example 0.001-100 - уровень звука warning
-"m crashVolume": 1 , example 0.001-100 - уровень звука crash
+"m_Crash_dem": 15 пример 0.1-100- максимальная скорость при котором будет звук урона
+"m_engineVolume": 1 , example 0.001-100 - уровень звука engine
+"m_rotorVolume": 1 , example 0.001-100 - уровень звука rotor
+"m_warningVolume": 1 , example 0.001-100 - уровень звука warning
+"m_crashVolume": 1 , example 0.001-100 - уровень звука crash
 "m_startSoundVolume": 1.0,  example 0.001-100 - уровень звука запуска двигателя   
 "m_stopSoundVolume": 1.0, example 0.001-100 - уровень звука выключение двигателя   
 "hud_1rdPerson": 0.0, - если 1 то включает HUD от 1-го лица, если -1 то отключает от 3го лица
