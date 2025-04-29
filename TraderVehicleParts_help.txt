@@ -244,3 +244,16 @@ HeadlightH7
 HeadlightH7
 
 
+<VehicleParts>HeliXH9_SIB_clear
+HatchbackWheel
+HatchbackWheel
+HatchbackWheel
+HatchbackWheel
+SIBXH9_Door_1_1
+SIBXH9_Door_2_1
+SIBXH9_blade1
+SIBXH9_blade2
+SIBXH9_bladem1
+CarBattery
+HeadlightH7
+HeadlightH7
