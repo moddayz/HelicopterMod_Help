@@ -7,7 +7,7 @@
 "Gunner_Intersect" - geometry that is checked in (collisions with walls) Fire(0),View(1),Geom(2),IFire(3),None(4)
 "Gunner_ScriptCollision" - (collisions with walls) check system based on 4 points around the player's circle (disable 0, enable 1)
 "Gunner_script_floor" - disables checking if there is a flat surface under the feet (carefully, this makes it possible to run away from vehicles) (disable 0, enable 1)
-"Gunner_Camera" - !!!camera mode!!! passenger (0 is standard),(1 only from 1st person),(2 both from first and from 3rd),(3 only from 3rd)
+"Gunner_Camera" - !!!camera mode!!! passenger (0 is standard),(1 only from 1st person),(2 both from first and from 3rd),(3 only from 3rd)(to enable only the camera, you need to enable it in the same place as the "Action" parameter)
 "Gunner_Distance" - invisible wall is calculated from the distance to enter gunner mode.
 "Gunner_Stance" - body position in guner mode (0 = Standing) (1 = Crouching Down) (2 = Lying Down)
 "Gunner_Move" - enable movement blocking (disable 0, enable 1)
@@ -34,7 +34,7 @@
 "Gunner_Intersect" - геометрия которая проверяется в (столкновений со стенами) Fire(0),View(1),Geom(2),IFire(3),None(4)
 "Gunner_ScriptCollision" - система проверки  (столкновений со стенами) на основе 4 точек во круг игрока (0 выключить, 1 включить)
 "Gunner_script_floor" - отключает проверку есть ли под ногами ровная поверхность(осторожно это дает возможность отбегать от техники)
-"Gunner_Camera" -  режим камеры поссажира (0 стандартно),(1 только от 1го лица),(2 и от первого и от 3го),(3 только от 3-го)
+"Gunner_Camera" -  режим камеры поссажира (0 стандартно),(1 только от 1го лица),(2 и от первого и от 3го),(3 только от 3-го)(для включения только камеры нужно включить в месте с параметром Action)
 "Gunner_Distance" - невидимая стена рассчитывается от дистанции входа в режим гуннера.
 "Gunner_Stance" - положение тела в режиме гуннера (0 = стоя) (1 = присев) (2 = лежа)
 "Gunner_Move" - включение блокировки хождения (0 выключить, 1 включить)
